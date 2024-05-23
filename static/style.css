@@ -3,11 +3,11 @@ body{
     padding-left: 1rem;
     padding-right: 1rem;
     color:#FEFEFE;
-    font-family: "gohu";
+    font-family: "gohu" !important;
 }
 @font-face {
     font-family: "gohu";
-    src: url("gohu.woff") format('woff');
+    src: url("gohu.woff") format('woff') ;
   }
 .cc{
     text-align: center;
